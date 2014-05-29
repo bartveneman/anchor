@@ -22,4 +22,4 @@
         c.appendChild(d.createTextNode("¶"));
         b.insertBefore(c, b.firstChild);
     }
-}(document);
+}(document));
