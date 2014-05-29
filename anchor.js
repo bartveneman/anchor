@@ -13,7 +13,7 @@
     for (i = 0; i < a.length; i++) {
         b = a[i];
         c = b.innerHTML;
-        // Parse title to url-friendly text (via http://stackoverflow.com/questions/1053902/how-to-convert-a-title-to-a-url-slug-in-jquery)
+        // Parse title to url-friendly text
         b.id = c.toLowerCase().replace(/ /g,'-').replace(/[^\w-]+/g,'');
         // Create the pilcrow element
         c = d.createElement("a");
