@@ -4,8 +4,7 @@ Add anchors to all page headings, GitHub style.
 
 ## Demo
 
-<p data-height="268" data-theme-id="27" data-slug-hash="nACDH" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/bartveneman/pen/nACDH/'>Anchor</a> by Bart Veneman (<a href='http://codepen.io/bartveneman'>@bartveneman</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//codepen.io/assets/embed/ei.js"></script>
+See the Pen [Anchor](http://codepen.io/bartveneman/pen/nACDH/) on [CodePen](http://codepen.io).
 
 ## Credits
 
