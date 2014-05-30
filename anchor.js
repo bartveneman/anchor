@@ -18,7 +18,7 @@
         // Create the pilcrow element
         c = d.createElement("a");
         c.href = "#" + b.id;
-        c.className = "id";
+        c.className = "anchor";
         c.appendChild(d.createTextNode("¶"));
         b.insertBefore(c, b.firstChild);
     }
