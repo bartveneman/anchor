@@ -4,7 +4,7 @@ Add anchors to all page headings, GitHub style.
 ## Example
 `<h1>My super Awesome heading</h1>` will be converted to:
 
-````
+````html
 <h1 id="my-super-awesome-heading">
   <a href="#my-super-awesome-heading" class="id">¶</a>
   My super Awesome heading
