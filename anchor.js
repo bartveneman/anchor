@@ -1,14 +1,14 @@
-(function (d /*document*/, a, b, c, i) {  
+(function (d /*document*/, a, b, c, i) {
     a = [];
-  
-    // Loop though headings selector list -> h[1..6]
-    for (i = 0; i < 6; i++) {
+
+    // Loop though headings selectors list -> h[1..6]
+    for (i = 1; i <= 6; i += 1) {
         // Get the elements
         b = d.getElementsByTagName("h" + i);
-        // Build a single array instead of multiple Nodelists for all seperate elements
+        // Build a single array of all elements
         for (c = b.length; c--; a.unshift(b[c]));
     }
-  
+
     // Create a pilcrow for each element
     for (i = 0; i < a.length; i++) {
         b = a[i];
