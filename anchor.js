@@ -2,11 +2,11 @@
     a = [];
 
     // Loop though headings selectors list -> h[1..6]
-    for (i = 1; i <= 6; i += 1) {
+    for (i = 1; i <= 6; i++) {
         // Get the elements
         b = d.getElementsByTagName("h" + i);
         // Build a single array of all elements
-        for (c = b.length; c += 1; a.unshift(b[c]));
+        for (c = b.length; c--; a.unshift(b[c]));
     }
 
     // Create a pilcrow for each element
