@@ -1,4 +1,5 @@
 # Anchor
+[![Code Climate](https://codeclimate.com/github/bartveneman/anchor/badges/gpa.svg)](https://codeclimate.com/github/bartveneman/anchor)
 Add anchors to all page headings, GitHub style.
 
 ## Example
