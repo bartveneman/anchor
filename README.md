@@ -8,7 +8,7 @@ Add anchors to all page headings, GitHub style.
 
 ````html
 <h1 id="my-super-awesome-heading">
-  <a href="#my-super-awesome-heading" class="anchor">¶</a>
+  <a href="#my-super-awesome-heading" class="anchor">§</a>
   My super Awesome heading
 </h1>
 ````
